@@ -20,7 +20,7 @@ Here are a few fun facts:
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
 [![Outlook](https://img.shields.io/badge/Nija.Griffin@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white=mailto:nija.griffin@outlook.com)](mailto:nija.griffin@outlook.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Nija%20Griffin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nija-griffin/)](https://www.linkedin.com/in/avyana-baker-89728290/)
+[![Linkedin Badge](https://img.shields.io/badge/-Nija%20Griffin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nija-griffin/)](https://www.linkedin.com/in/nija-griffin/)
 [![Medium Badge](https://img.shields.io/badge/Nija%20Griffin-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@nijagriffin)](https://medium.com/@nijagriffin)
 
 ## ⚡ Technologies ⚡️
