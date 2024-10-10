@@ -1,18 +1,18 @@
 ### Welcome 👋 My name is AJ!
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
-I possess nearly five years of experience in securing, maintaining, and troubleshooting network infrastructure. I have a strong background in identifying network issues, configuring and deploying network hardware and software, and providing technical support to end-users. I am currently looking to transition into **Cloud Security** leveraging my experience using the **AWS** platformn.
+I possess nearly five years of experience in securing, maintaining, and troubleshooting network infrastructure. I have a strong background in identifying network issues, configuring and deploying network hardware, security software, and providing technical support to end-users. I am currently looking to transition into **Cloud Security** leveraging my experience using the **Azure** platformn.
 
 Here are a few fun facts:
 
 
-☁️ -  I’m interested in DevOps & Cloud Security/Architecture 🔒
+☁️ -  I’m interested in Cloud Security/Architecture 🔒
 
 
-👨‍🎓 - Pursing a Bachelors in Cloud Computing at WGU 🦉
+👨‍🎓 - Pursing a Bachelors in Cybersecurity at WGU 🦉
 
 
-📚 - I am currently preparing to take the AWS Sysops Administrator Certification
+📚 - I am currently preparing to take the CompTIA CySA+ Certification
 
 
 <ins>Feel free to connect with me here:</ins>
