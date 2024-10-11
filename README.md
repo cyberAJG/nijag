@@ -1,6 +1,6 @@
-# Welcome to My Cybersecurity Portfolio
+# Cybersecurity Portfolio
 
-Hello, I'm [Your Name], a dedicated cybersecurity professional with a strong background in IT security, networking, and cloud services. I hold several industry-recognized certifications and have over 6 years of experience in IT and security administration.
+Hello, I'm AJ, a dedicated cybersecurity professional with a strong background in IT security, networking, and cloud services. I hold several industry-recognized certifications and have over 6 years of experience in IT and security administration.
 
 This portfolio showcases my skills and projects in network security, automation, cloud infrastructure, and web vulnerability assessments.
 
@@ -54,25 +54,25 @@ I also write about cybersecurity topics and tools that I've worked with. Here ar
 - [How to Automate Windows Security Monitoring with PowerShell](https://yourusername.github.io/blog/windows-security-monitoring-powershell)
 - [Securing AWS Environments: Best Practices](https://yourusername.github.io/blog/securing-aws-environments)
 
-Current Aspirations:
+## Current Aspirations:
 
-☁️ -  I’m interested in Cloud Security/Architecture 🔒
-
-
-👨‍🎓 - Pursing a Bachelors in Cybersecurity at WGU 🦉
+☁️ -  I’m actively working on project focused on **Cloud Security/Architecture** 🔒
 
 
-📚 - I am currently preparing to take the CompTIA CySA+ Certification
+👨‍🎓 - Pursing a **Bachelors in Cybersecurity** at **WGU** 🦉
 
 
-<ins>Feel free to connect with me here:</ins>
+📚 - I am currently preparing to take the **CompTIA CySA+** Certification
+
+
+## <ins>Feel free to connect with me here:</ins>
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nija%20Griffin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nija-griffin/)](https://www.linkedin.com/in/nija-griffin/)
 
-## ⚡ Technologies ⚡️
+## Technologies
 
 <!-- Check out the Badges folder for more badges -->
 
