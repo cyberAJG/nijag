@@ -1,10 +1,60 @@
-### Welcome 👋 My name is AJ!
+# Welcome to My Cybersecurity Portfolio
 
-<!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
-I possess nearly five years of experience in securing, maintaining, and troubleshooting network infrastructure. I have a strong background in identifying network issues, configuring and deploying network hardware, security software, and providing technical support to end-users. I am currently looking to transition into **Cloud Security** leveraging my experience using the **Azure** platform.
+Hello, I'm [Your Name], a dedicated cybersecurity professional with a strong background in IT security, networking, and cloud services. I hold several industry-recognized certifications and have over 6 years of experience in IT and security administration.
 
-Here are a few fun facts:
+This portfolio showcases my skills and projects in network security, automation, cloud infrastructure, and web vulnerability assessments.
 
+## About Me
+- **Role**: Security Administrator
+- **Location**: Richmond, VA
+- **Experience**: 6+ years in IT and cybersecurity
+- **Certifications**:
+  - Cisco Certified Network Associate (CCNA)
+  - AWS Certified SysOps Administrator
+  - AWS Certified Practitioner
+  - CompTIA Cloud+
+  - Fortinet Certified Associate Cybersecurity 
+  - CompTIA Security+
+  - CompTIA Network+
+  - CompTIA A+
+
+I specialize in **network security**, **cloud infrastructure security**, **automation scripting**, and **web vulnerability assessments**.
+
+## Projects
+
+### 1. Network Traffic Analyzer (Packet Sniffer)
+**Description**: A Python tool that captures and analyzes network traffic in real-time to detect anomalies or suspicious packets.
+
+**Skills Showcased**:
+- Packet capture using Python and Scapy.
+- Network protocol analysis.
+- Anomaly detection.
+
+[View Project on GitHub](https://github.com/yourusername/network-traffic-analyzer)
+
+---
+
+### 2. Web Vulnerability Scanner
+**Description**: A Python-based web vulnerability scanner that tests for common vulnerabilities like SQL Injection, XSS, and missing HTTP security headers.
+
+**Skills Showcased**:
+- Web application security.
+- Vulnerability scanning using Python (`requests` and `BeautifulSoup`).
+- Detection of insecure HTTP headers.
+
+[View Project on GitHub](https://github.com/yourusername/web-vuln-scanner)
+
+---
+
+
+## Blog
+I also write about cybersecurity topics and tools that I've worked with. Here are some recent posts:
+
+- [Building a Web Vulnerability Scanner in Python](https://yourusername.github.io/blog/building-web-vuln-scanner)
+- [How to Automate Windows Security Monitoring with PowerShell](https://yourusername.github.io/blog/windows-security-monitoring-powershell)
+- [Securing AWS Environments: Best Practices](https://yourusername.github.io/blog/securing-aws-environments)
+
+Current Aspirations:
 
 ☁️ -  I’m interested in Cloud Security/Architecture 🔒
 
