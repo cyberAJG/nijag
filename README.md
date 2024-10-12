@@ -4,7 +4,7 @@ Hello 👋
 
 I'm AJ, a dedicated cybersecurity professional with a strong background in IT security, networking, and cloud services. I hold several industry-recognized certifications and have over 6 years of experience in IT and security administration.
 
-This portfolio showcases my skills and projects in network security, automation, cloud infrastructure, and web vulnerability assessments.
+This portfolio showcases my skills and projects in **network security**, **cloud infrastructure**, and **automation**.
 
 ---
 
@@ -29,53 +29,57 @@ I specialize in **network security**, **cloud infrastructure security**, **autom
 ## Projects
 
 ### 1. Network Traffic Analyzer (Packet Sniffer)
+
+![Demo](https://media.giphy.com/media/example.gif)
+
 **Description**: A Python tool that captures and analyzes network traffic in real-time to detect anomalies or suspicious packets.
+
+**Challenges Faced**:
+- **Handling High Traffic Volume**: Designed an efficient queuing system to manage large-scale network traffic using multithreading.
+- **Real-time Alerts**: Integrated with Slack to send real-time alerts when suspicious packets are detected.
 
 **Skills Showcased**:
 - Packet capture using Python and Scapy.
 - Network protocol analysis.
-- Anomaly detection.
+- Scalable architecture for high traffic environments.
 
 [View Project on GitHub]
 
 ---
 
 ### 2. Web Vulnerability Scanner
+
 **Description**: A Python-based web vulnerability scanner that tests for common vulnerabilities like SQL Injection, XSS, and missing HTTP security headers.
+
+**Challenges Faced**:
+- **Automation**: Implemented continuous scanning across multiple domains with real-time alerts via email.
+- **Cloud Integration**: Deployed the scanner on AWS to automate vulnerability checks on cloud resources.
 
 **Skills Showcased**:
 - Web application security.
 - Vulnerability scanning using Python (`requests` and `BeautifulSoup`).
-- Detection of insecure HTTP headers.
+- Cloud integration for security scanning.
 
 [View Project on GitHub]
-
 
 ---
 
 ## Current Aspirations
 
-☁️ -  I’m actively working on project focused on **Cloud Security/Architecture** 🔒
+🚀 - Currently exploring **AI/ML applications in cybersecurity** and how to integrate anomaly detection models into existing security systems.
 
 
 👨‍🎓 - Pursing a **Bachelors in Cybersecurity** at **WGU** 🦉
 
 
-📚 - I am currently preparing to take the **CompTIA CySA+** Certification
+📚 - Preparing to take the **CompTIA CySA+** Certification
 
 
 ---
 
-## <ins>Contact</ins>
+## Contact
 
-<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
+[![Linkedin Badge](https://img.shields.io/badge/-AJ%20Griffin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aj-griffin/)](https://www.linkedin.com/in/aj-griffin/)
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-Nija%20Griffin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nija-griffin/)](https://www.linkedin.com/in/nija-griffin/)
-
----
-
-<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=nijag&count_private=true&show_icons=true&include_all_commits=true)
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=nijag%2Fnijag&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=nijag%2nijag)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ajgriffin&count_private=true&show_icons=true&include_all_commits=true)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=ajgriffin%2Fajgriffin&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=ajgriffin%2ajgriffin)
