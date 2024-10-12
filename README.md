@@ -34,7 +34,7 @@ I specialize in **network security**, **cloud infrastructure security**, **autom
 - Network protocol analysis.
 - Anomaly detection.
 
-[View Project on GitHub](https://github.com/yourusername/network-traffic-analyzer)
+[View Project on GitHub]
 
 ---
 
@@ -46,7 +46,7 @@ I specialize in **network security**, **cloud infrastructure security**, **autom
 - Vulnerability scanning using Python (`requests` and `BeautifulSoup`).
 - Detection of insecure HTTP headers.
 
-[View Project on GitHub](https://github.com/yourusername/web-vuln-scanner)
+[View Project on GitHub]
 
 ---
 
