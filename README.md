@@ -48,15 +48,6 @@ I specialize in **network security**, **cloud infrastructure security**, **autom
 
 [View Project on GitHub]
 
----
-
-
-## Blog
-I also write about cybersecurity topics and tools that I've worked with. Here are some recent posts:
-
-- [Building a Web Vulnerability Scanner in Python](https://yourusername.github.io/blog/building-web-vuln-scanner)
-- [How to Automate Windows Security Monitoring with PowerShell](https://yourusername.github.io/blog/windows-security-monitoring-powershell)
-- [Securing AWS Environments: Best Practices](https://yourusername.github.io/blog/securing-aws-environments)
 
 ---
 
