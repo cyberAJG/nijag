@@ -1,6 +1,8 @@
 # Cybersecurity Portfolio
 
-Hello, I'm AJ, a dedicated cybersecurity professional with a strong background in IT security, networking, and cloud services. I hold several industry-recognized certifications and have over 6 years of experience in IT and security administration.
+Hello 👋
+
+I'm AJ, a dedicated cybersecurity professional with a strong background in IT security, networking, and cloud services. I hold several industry-recognized certifications and have over 6 years of experience in IT and security administration.
 
 This portfolio showcases my skills and projects in network security, automation, cloud infrastructure, and web vulnerability assessments.
 
