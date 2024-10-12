@@ -71,6 +71,8 @@ I also write about cybersecurity topics and tools that I've worked with. Here ar
 📚 - I am currently preparing to take the **CompTIA CySA+** Certification
 
 
+---
+
 ## <ins>Contact</ins>
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
